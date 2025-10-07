@@ -78,12 +78,3 @@ The production-ready files will be in the `dist` directory.
 ```bash
 npm run preview
 ```
-
-## License
-
-MIT License - Created for Havells Assessment
-
-## Author
-
-[Your Name]
-[Your Email]
